@@ -1,0 +1,1 @@
+A series of human pedestrians and vehicles exhibited various movements including crossing, turning, and lane changes, with a dominant pattern of lateral and longitudinal movement relative to the ego vehicle across various distances and orientations.
