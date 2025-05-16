@@ -55,7 +55,7 @@ crossed > lateral (left/right) > longitudinal (ahead/behind) > facing
    ```
 
 2. **Learning-Based Comparison**  
-   We will compare these rule-based graphs with learned scene graphs using:  
+   We will compare these rule-based graphs with learned scene graphs which uses sensor data using:  
    - CLIP/ViT-based relation prediction  
    - Graph alignment metrics  
    - Qualitative validation on downstream reasoning
@@ -73,5 +73,5 @@ crossed > lateral (left/right) > longitudinal (ahead/behind) > facing
 
 ## 📁 Files
 
-- `scene_graph_generator.py`: builds the graph  
+- `scene_graphs/ : Contains plots 
 - `scene_02_extracted_triples.txt`: raw extracted triples from NuScenes scene 2
