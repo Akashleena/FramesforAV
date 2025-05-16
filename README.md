@@ -7,14 +7,14 @@ This project generates scene graphs from symbolic behavior descriptions using Li
 ---
 
 ## 🔧 How the Scene Graph is Generated
-
-Each object in a scene is described using Frame Theory, producing natural language outputs like:
+Frame theroy output to triples
 
 > A human.pedestrian.adult crossed from left to right and was always ahead of the ego vehicle. It faced rightward.
 
 From these, we extract relation triples in the format:
 
 ```python
+Triples
 (subject, relation, object)
 # Example:
 (human.pedestrian.adult_7, crossed_left_to_right, ego_vehicle)
