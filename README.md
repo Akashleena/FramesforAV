@@ -36,7 +36,14 @@ This ensures:Graph is minimal. Redundant or overlapping info is dropped at visua
 **Priority order:**
 
 ```text
-crossed > lateral (left/right) > longitudinal (ahead/behind) > facing
+# Priority order: lower index = higher priority
+priority = [
+    'crossed_left_to_right', 'crossed_right_to_left',
+    'always_left_of', 'always_right_of',
+    'always_ahead_of', 'always_behind',
+    'facing_rightward', 'facing_leftward'
+    'facing_opposite_direction', 'facing_same_direction' 
+]
 ```
 
 ## 📊 Current Output
