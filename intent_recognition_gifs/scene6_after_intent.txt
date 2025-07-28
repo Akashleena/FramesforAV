@@ -1,0 +1,1 @@
+A series of vehicle movements including lane changes, turning, and minor movements were observed across various vehicles as they predominantly moved diagonally, left, backward, or forward, with some crossing from right to left laterally and from ahead to behind longitudinally, covering distances ranging from approximately 63.62m to 176.12m, with different orientations over time.

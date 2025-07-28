@@ -1,0 +1,1 @@
+Multiple vehicles and pedestrians predominantly moved backward, with some turning and crossing paths relative to the ego vehicle; specifically, vehicles executed maneuvers, including turning and crossing from ahead to behind, while pedestrians engaged in crossing movements across lateral positions.

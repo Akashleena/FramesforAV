@@ -1,0 +1,1 @@
+Car moving backward, right lane occupied, overtaken by backward car, long distance covered, vehicle orientation opposite.
